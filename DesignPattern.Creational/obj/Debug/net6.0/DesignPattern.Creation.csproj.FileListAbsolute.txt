@@ -1,0 +1,12 @@
+D:\CodeRepo\DesignPattern\DesignPattern.Creational\bin\Debug\net6.0\DesignPattern.Creation.deps.json
+D:\CodeRepo\DesignPattern\DesignPattern.Creational\bin\Debug\net6.0\DesignPattern.Creation.dll
+D:\CodeRepo\DesignPattern\DesignPattern.Creational\bin\Debug\net6.0\ref\DesignPattern.Creation.dll
+D:\CodeRepo\DesignPattern\DesignPattern.Creational\bin\Debug\net6.0\DesignPattern.Creation.pdb
+D:\CodeRepo\DesignPattern\DesignPattern.Creational\obj\Debug\net6.0\DesignPattern.Creation.csproj.AssemblyReference.cache
+D:\CodeRepo\DesignPattern\DesignPattern.Creational\obj\Debug\net6.0\DesignPattern.Creation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeRepo\DesignPattern\DesignPattern.Creational\obj\Debug\net6.0\DesignPattern.Creation.AssemblyInfoInputs.cache
+D:\CodeRepo\DesignPattern\DesignPattern.Creational\obj\Debug\net6.0\DesignPattern.Creation.AssemblyInfo.cs
+D:\CodeRepo\DesignPattern\DesignPattern.Creational\obj\Debug\net6.0\DesignPattern.Creation.csproj.CoreCompileInputs.cache
+D:\CodeRepo\DesignPattern\DesignPattern.Creational\obj\Debug\net6.0\DesignPattern.Creation.dll
+D:\CodeRepo\DesignPattern\DesignPattern.Creational\obj\Debug\net6.0\ref\DesignPattern.Creation.dll
+D:\CodeRepo\DesignPattern\DesignPattern.Creational\obj\Debug\net6.0\DesignPattern.Creation.pdb
