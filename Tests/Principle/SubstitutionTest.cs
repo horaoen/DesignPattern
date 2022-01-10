@@ -1,5 +1,4 @@
-﻿using System;
-using DesignPattern.Principle.Substitution;
+﻿using DesignPattern.Principle.Substitution;
 using Xunit;
 using Xunit.Abstractions;
 

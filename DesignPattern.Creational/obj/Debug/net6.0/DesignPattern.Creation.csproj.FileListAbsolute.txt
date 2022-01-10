@@ -10,3 +10,6 @@ D:\CodeRepo\DesignPattern\DesignPattern.Creational\obj\Debug\net6.0\DesignPatter
 D:\CodeRepo\DesignPattern\DesignPattern.Creational\obj\Debug\net6.0\DesignPattern.Creation.dll
 D:\CodeRepo\DesignPattern\DesignPattern.Creational\obj\Debug\net6.0\ref\DesignPattern.Creation.dll
 D:\CodeRepo\DesignPattern\DesignPattern.Creational\obj\Debug\net6.0\DesignPattern.Creation.pdb
+D:\CodeRepo\DesignPattern\DesignPattern.Creational\bin\Debug\net6.0\DesignPattern.Creation.exe
+D:\CodeRepo\DesignPattern\DesignPattern.Creational\bin\Debug\net6.0\DesignPattern.Creation.runtimeconfig.json
+D:\CodeRepo\DesignPattern\DesignPattern.Creational\obj\Debug\net6.0\DesignPattern.Creation.genruntimeconfig.cache

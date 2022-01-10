@@ -58,14 +58,14 @@
         }
       }
     },
-    "D:\\CodeRepo\\DesignPattern\\horaoen.designpattern.principle\\DesignPattern.Principle.csproj": {
+    "D:\\CodeRepo\\DesignPattern\\DesignPattern.Principle\\DesignPattern.Principle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CodeRepo\\DesignPattern\\horaoen.designpattern.principle\\DesignPattern.Principle.csproj",
+        "projectUniqueName": "D:\\CodeRepo\\DesignPattern\\DesignPattern.Principle\\DesignPattern.Principle.csproj",
         "projectName": "DesignPattern.Principle",
-        "projectPath": "D:\\CodeRepo\\DesignPattern\\horaoen.designpattern.principle\\DesignPattern.Principle.csproj",
+        "projectPath": "D:\\CodeRepo\\DesignPattern\\DesignPattern.Principle\\DesignPattern.Principle.csproj",
         "packagesPath": "C:\\Users\\Horaoen\\.nuget\\packages\\",
-        "outputPath": "D:\\CodeRepo\\DesignPattern\\horaoen.designpattern.principle\\obj\\",
+        "outputPath": "D:\\CodeRepo\\DesignPattern\\DesignPattern.Principle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Horaoen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -139,8 +139,8 @@
               "D:\\CodeRepo\\DesignPattern\\DesignPattern.Creational\\DesignPattern.Creation.csproj": {
                 "projectPath": "D:\\CodeRepo\\DesignPattern\\DesignPattern.Creational\\DesignPattern.Creation.csproj"
               },
-              "D:\\CodeRepo\\DesignPattern\\horaoen.designpattern.principle\\DesignPattern.Principle.csproj": {
-                "projectPath": "D:\\CodeRepo\\DesignPattern\\horaoen.designpattern.principle\\DesignPattern.Principle.csproj"
+              "D:\\CodeRepo\\DesignPattern\\DesignPattern.Principle\\DesignPattern.Principle.csproj": {
+                "projectPath": "D:\\CodeRepo\\DesignPattern\\DesignPattern.Principle\\DesignPattern.Principle.csproj"
               }
             }
           }

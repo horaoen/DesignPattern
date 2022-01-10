@@ -5990,8 +5990,8 @@
     },
     "DesignPattern.Principle/1.0.0": {
       "type": "project",
-      "path": "../horaoen.designpattern.principle/DesignPattern.Principle.csproj",
-      "msbuildProject": "../horaoen.designpattern.principle/DesignPattern.Principle.csproj"
+      "path": "../DesignPattern.Principle/DesignPattern.Principle.csproj",
+      "msbuildProject": "../DesignPattern.Principle/DesignPattern.Principle.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6034,8 +6034,8 @@
             "D:\\CodeRepo\\DesignPattern\\DesignPattern.Creational\\DesignPattern.Creation.csproj": {
               "projectPath": "D:\\CodeRepo\\DesignPattern\\DesignPattern.Creational\\DesignPattern.Creation.csproj"
             },
-            "D:\\CodeRepo\\DesignPattern\\horaoen.designpattern.principle\\DesignPattern.Principle.csproj": {
-              "projectPath": "D:\\CodeRepo\\DesignPattern\\horaoen.designpattern.principle\\DesignPattern.Principle.csproj"
+            "D:\\CodeRepo\\DesignPattern\\DesignPattern.Principle\\DesignPattern.Principle.csproj": {
+              "projectPath": "D:\\CodeRepo\\DesignPattern\\DesignPattern.Principle\\DesignPattern.Principle.csproj"
             }
           }
         }

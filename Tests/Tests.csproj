@@ -22,7 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DesignPattern.Creational\DesignPattern.Creation.csproj" />
-    <ProjectReference Include="..\horaoen.designpattern.principle\DesignPattern.Principle.csproj" />
+    <ProjectReference Include="..\DesignPattern.Principle\DesignPattern.Principle.csproj" />
   </ItemGroup>
 
 </Project>
