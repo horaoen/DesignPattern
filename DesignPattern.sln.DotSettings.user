@@ -6,5 +6,7 @@
     &lt;TestId&gt;xUnit::4128B6DA-7C6B-41D1-96AE-B974ABAA313C::net6.0::Tests.Creation.SimpleFactoryTest.SimpleFactory&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::4128B6DA-7C6B-41D1-96AE-B974ABAA313C::net6.0::Tests.Creation.FactoryMethodTest.FactoryMethod&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::4128B6DA-7C6B-41D1-96AE-B974ABAA313C::net6.0::Tests.Creation.BuilderTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4128B6DA-7C6B-41D1-96AE-B974ABAA313C::net6.0::Tests.Principle.SubstitutionTest.ResizeTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4128B6DA-7C6B-41D1-96AE-B974ABAA313C::net6.0::Tests.Principle.SubstitutionTest.Resize&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="GBK"?>
+<!--
+<connection type="default" jndi="" dbms="MySQL">
+	<driver_class_name>com.mysql.cj.jdbc.Driver</driver_class_name>
+	<url>jdbc:mysql:///eadp?useSSL=FALSE&amp;serverTimezone=UTC&amp;characterEncoding=UTF-8</url>
+	<user>root</user>
+	<password>password</password>
+</connection>
+-->
+<!---->
+<connection type="default" jndi="" dbms="PostgreSQL">
+	<driver_class_name>org.postgresql.Driver</driver_class_name>
+	<url>jdbc:postgresql://192.168.56.116:5432/eadp</url>
+	<user>user</user>
+	<password>user</password>
+</connection>
+
+<!--
+<connection type="connection_pool" jndi="java:comp/env/jdbc/jndimysql" dbms="MySQL">
+	<driver_class_name>com.mysql.cj.jdbc.Driver</driver_class_name>
+	<url>jdbc:mysql:///npsdb?useSSL=FALSE&amp;serverTimezone=UTC&amp;characterEncoding=UTF-8</url>
+	<user>root</user>
+	<password>password</password>
+</connection>
+-->

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPattern.Principle", "horaoen.designpattern.principle\DesignPattern.Principle.csproj", "{4D0DE294-9C06-4BC2-A1A0-A91A314DE431}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPattern.Principle", "DesignPattern.Principle\DesignPattern.Principle.csproj", "{4D0DE294-9C06-4BC2-A1A0-A91A314DE431}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{4128B6DA-7C6B-41D1-96AE-B974ABAA313C}"
 EndProject
