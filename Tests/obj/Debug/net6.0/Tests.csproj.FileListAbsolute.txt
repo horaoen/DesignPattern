@@ -102,3 +102,6 @@ D:\CodeRepo\DesignPattern\Tests\obj\Debug\net6.0\Tests.pdb
 D:\CodeRepo\DesignPattern\Tests\obj\Debug\net6.0\Tests.genruntimeconfig.cache
 D:\CodeRepo\DesignPattern\Tests\bin\Debug\net6.0\DesignPattern.Creation.dll
 D:\CodeRepo\DesignPattern\Tests\bin\Debug\net6.0\DesignPattern.Creation.pdb
+D:\CodeRepo\DesignPattern\Tests\bin\Debug\net6.0\DesignPattern.Creation.deps.json
+D:\CodeRepo\DesignPattern\Tests\bin\Debug\net6.0\DesignPattern.Creation.runtimeconfig.json
+D:\CodeRepo\DesignPattern\Tests\bin\Debug\net6.0\DesignPattern.Creation.exe

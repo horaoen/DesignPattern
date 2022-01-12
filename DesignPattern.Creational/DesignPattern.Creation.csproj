@@ -12,6 +12,7 @@
     <Folder Include="AbstractFactory\" />
     <Folder Include="Builder\V2\" />
     <Folder Include="Singleton\" />
+    <Folder Include="ProtoType\" />
   </ItemGroup>
 
 </Project>
