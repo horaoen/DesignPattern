@@ -15,7 +15,12 @@
       "ProjectGuid": "bcdaa701-6e83-4d11-b847-6d47815ed36f",
       "DisplayName": "DesignPattern.Creation",
       "ColorIndex": 2
+    },
+    "ddfc9635-3cd7-4409-aa25-a95873bc726d": {
+      "ProjectGuid": "ddfc9635-3cd7-4409-aa25-a95873bc726d",
+      "DisplayName": "DesignPattern.Structural",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
