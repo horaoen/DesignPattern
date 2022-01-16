@@ -2,8 +2,8 @@
 
 public class BatterCake
 {
-    public string Desc => "煎饼";
+    public virtual string Desc => "煎饼";
 
-    public int Cost => 8;
+    public virtual int Cost => 8;
 
 }

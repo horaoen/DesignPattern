@@ -2,6 +2,6 @@
 
 public class BatterCakeWithEgg : BatterCake
 {
-    public new string Desc => base.Desc + " 加一个鸡蛋";
-    public new int Cost => base.Cost + 1;
+    public override string Desc => base.Desc + " 加一个鸡蛋";
+    public override int Cost => base.Cost + 1;
 }
